@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.4.0",
+    "axios": "^1.18.0",
+    "react-hook-form": "^7.79.0",
+    "react-router-dom": "^7.18.0",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.3.1"
+  }
+}
